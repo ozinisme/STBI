@@ -9,4 +9,5 @@ Materi :<br>
 <li>Stopword Removal</li>
 <li>Index Invert</li>
 <li>query boolean</li>
+<li> klasifikasi menggunakan bahasa R</li>
 </ol>
